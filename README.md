@@ -1,2 +1,1 @@
-# BE-Internship
-Book recommendation system using IBM watson
+# Book-Recommendation-System
